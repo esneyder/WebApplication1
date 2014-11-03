@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="sigue" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\ARCHIVOS\ SD\\proyecto-gesdeco\\WebApplication1\\WebApplication1\\WebApplication1\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^D:\\ARCHIVOS\ SD\\proyecto-gesdeco\\WebApplication1\\WebApplication1\\WebApplication1\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="" value="Data Source=w05qcmjy9w.database.windows.net,1433;Initial Catalog=gesdeco;Persist Security Info=True;User ID=gesdeco;Password=gesdeco123" tags="">
+    <parameterEntry kind="XmlFile" scope="D:\\ARCHIVOS\ SD\\proyecto-gesdeco\\WebApplication1\\WebApplication1\\WebApplication1\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="gesdecoConnectionString-Web.config Connection String" description="gesdecoConnectionString Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." value="Data Source= w05qcmjy9w.database.windows.net,1433;Initial Catalog=sigue_db;Persist Security Info=True;User ID=gesdeco;Password=alvarez@2014" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\ARCHIVOS\ SD\\proyecto-gesdeco\\WebApplication1\\WebApplication1\\WebApplication1\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='gesdecoConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

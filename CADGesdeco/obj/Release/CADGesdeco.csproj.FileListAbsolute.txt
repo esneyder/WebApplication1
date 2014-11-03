@@ -1,0 +1,6 @@
+D:\ARCHIVOS SD\proyecto-gesdeco\WebApplication1\WebApplication1\CADGesdeco\bin\Release\CADGesdeco.dll.config
+D:\ARCHIVOS SD\proyecto-gesdeco\WebApplication1\WebApplication1\CADGesdeco\bin\Release\CADGesdeco.dll
+D:\ARCHIVOS SD\proyecto-gesdeco\WebApplication1\WebApplication1\CADGesdeco\bin\Release\CADGesdeco.pdb
+D:\ARCHIVOS SD\proyecto-gesdeco\WebApplication1\WebApplication1\CADGesdeco\obj\Release\CADGesdeco.csprojResolveAssemblyReference.cache
+D:\ARCHIVOS SD\proyecto-gesdeco\WebApplication1\WebApplication1\CADGesdeco\obj\Release\CADGesdeco.dll
+D:\ARCHIVOS SD\proyecto-gesdeco\WebApplication1\WebApplication1\CADGesdeco\obj\Release\CADGesdeco.pdb

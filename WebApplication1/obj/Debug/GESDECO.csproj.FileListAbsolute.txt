@@ -1,0 +1,87 @@
+C:\Users\Edwin\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Edwin\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Edwin\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Edwin\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Edwin\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Edwin\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Edwin\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Edwin\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\CADGesdeco.dll
+C:\Users\Edwin\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Edwin\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\DotNetOpenAuth.Core.dll
+C:\Users\Edwin\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Edwin\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Edwin\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Edwin\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Edwin\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\EntityFramework.dll
+C:\Users\Edwin\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Edwin\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Edwin\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Edwin\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Edwin\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Edwin\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\Edwin\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\System.Web.Providers.dll
+C:\Users\Edwin\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\Edwin\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\CADGesdeco.pdb
+C:\Users\Edwin\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\EntityFramework.xml
+C:\Users\Edwin\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\DotNetOpenAuth.Core.xml
+C:\Users\Edwin\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Edwin\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Edwin\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Edwin\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Edwin\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Edwin\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\es\EntityFramework.resources.dll
+C:\Users\Edwin\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Edwin\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\es\System.Web.Providers.resources.dll
+C:\Users\Edwin\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\Users\Edwin\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\obj\Debug\GESDECO.csprojResolveAssemblyReference.cache
+C:\Users\Edwin\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Edwin\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Edwin\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Edwin\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\obj\Debug\RdlCompile.cache
+C:\Users\Edwin\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\obj\Debug\RdlCompile.compiled
+C:\Users\Edwin\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Scaffolding.12.0.dll
+C:\Users\Edwin\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Scaffolding.EntityFramework.12.0.dll
+C:\Users\Edwin\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Scaffolding.12.0.xml
+C:\Users\Edwin\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Scaffolding.EntityFramework.12.0.xml
+D:\ARCHIVOS SD\proyecto-gesdeco\WebApplication1\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\ARCHIVOS SD\proyecto-gesdeco\WebApplication1\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\ARCHIVOS SD\proyecto-gesdeco\WebApplication1\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\ARCHIVOS SD\proyecto-gesdeco\WebApplication1\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+D:\ARCHIVOS SD\proyecto-gesdeco\WebApplication1\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+D:\ARCHIVOS SD\proyecto-gesdeco\WebApplication1\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\ARCHIVOS SD\proyecto-gesdeco\WebApplication1\WebApplication1\WebApplication1\bin\CADGesdeco.dll
+D:\ARCHIVOS SD\proyecto-gesdeco\WebApplication1\WebApplication1\WebApplication1\bin\DotNetOpenAuth.AspNet.dll
+D:\ARCHIVOS SD\proyecto-gesdeco\WebApplication1\WebApplication1\WebApplication1\bin\DotNetOpenAuth.Core.dll
+D:\ARCHIVOS SD\proyecto-gesdeco\WebApplication1\WebApplication1\WebApplication1\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\ARCHIVOS SD\proyecto-gesdeco\WebApplication1\WebApplication1\WebApplication1\bin\DotNetOpenAuth.OAuth.dll
+D:\ARCHIVOS SD\proyecto-gesdeco\WebApplication1\WebApplication1\WebApplication1\bin\DotNetOpenAuth.OpenId.dll
+D:\ARCHIVOS SD\proyecto-gesdeco\WebApplication1\WebApplication1\WebApplication1\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\ARCHIVOS SD\proyecto-gesdeco\WebApplication1\WebApplication1\WebApplication1\bin\EntityFramework.dll
+D:\ARCHIVOS SD\proyecto-gesdeco\WebApplication1\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\ARCHIVOS SD\proyecto-gesdeco\WebApplication1\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\ARCHIVOS SD\proyecto-gesdeco\WebApplication1\WebApplication1\WebApplication1\bin\Microsoft.ReportViewer.Common.dll
+D:\ARCHIVOS SD\proyecto-gesdeco\WebApplication1\WebApplication1\WebApplication1\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\ARCHIVOS SD\proyecto-gesdeco\WebApplication1\WebApplication1\WebApplication1\bin\Microsoft.ReportViewer.WebForms.DLL
+D:\ARCHIVOS SD\proyecto-gesdeco\WebApplication1\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\ARCHIVOS SD\proyecto-gesdeco\WebApplication1\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+D:\ARCHIVOS SD\proyecto-gesdeco\WebApplication1\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\ARCHIVOS SD\proyecto-gesdeco\WebApplication1\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+D:\ARCHIVOS SD\proyecto-gesdeco\WebApplication1\WebApplication1\WebApplication1\bin\System.Web.Providers.dll
+D:\ARCHIVOS SD\proyecto-gesdeco\WebApplication1\WebApplication1\WebApplication1\bin\WebGrease.dll
+D:\ARCHIVOS SD\proyecto-gesdeco\WebApplication1\WebApplication1\WebApplication1\bin\CADGesdeco.pdb
+D:\ARCHIVOS SD\proyecto-gesdeco\WebApplication1\WebApplication1\WebApplication1\bin\EntityFramework.xml
+D:\ARCHIVOS SD\proyecto-gesdeco\WebApplication1\WebApplication1\WebApplication1\bin\DotNetOpenAuth.Core.xml
+D:\ARCHIVOS SD\proyecto-gesdeco\WebApplication1\WebApplication1\WebApplication1\bin\DotNetOpenAuth.OAuth.xml
+D:\ARCHIVOS SD\proyecto-gesdeco\WebApplication1\WebApplication1\WebApplication1\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\ARCHIVOS SD\proyecto-gesdeco\WebApplication1\WebApplication1\WebApplication1\bin\DotNetOpenAuth.OpenId.xml
+D:\ARCHIVOS SD\proyecto-gesdeco\WebApplication1\WebApplication1\WebApplication1\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\ARCHIVOS SD\proyecto-gesdeco\WebApplication1\WebApplication1\WebApplication1\bin\DotNetOpenAuth.AspNet.xml
+D:\ARCHIVOS SD\proyecto-gesdeco\WebApplication1\WebApplication1\WebApplication1\bin\es\EntityFramework.resources.dll
+D:\ARCHIVOS SD\proyecto-gesdeco\WebApplication1\WebApplication1\WebApplication1\bin\es\System.Web.Optimization.resources.dll
+D:\ARCHIVOS SD\proyecto-gesdeco\WebApplication1\WebApplication1\WebApplication1\bin\es\System.Web.Providers.resources.dll
+D:\ARCHIVOS SD\proyecto-gesdeco\WebApplication1\WebApplication1\WebApplication1\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+D:\ARCHIVOS SD\proyecto-gesdeco\WebApplication1\WebApplication1\WebApplication1\obj\Debug\GESDECO.csprojResolveAssemblyReference.cache
+D:\ARCHIVOS SD\proyecto-gesdeco\WebApplication1\WebApplication1\WebApplication1\obj\Debug\RdlCompile.cache
+D:\ARCHIVOS SD\proyecto-gesdeco\WebApplication1\WebApplication1\WebApplication1\obj\Debug\RdlCompile.compiled
+D:\ARCHIVOS SD\proyecto-gesdeco\WebApplication1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\ARCHIVOS SD\proyecto-gesdeco\WebApplication1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb

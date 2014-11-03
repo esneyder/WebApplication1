@@ -1,0 +1,39 @@
+﻿body {
+}
+           @import "//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css";
+            @import "DataTables.Boostraps.ccs";
+         
+    #container {
+        padding-top: 60px !important;
+        width: 960px !important;
+    }
+    #dt_example .big {
+        font-size: 1.3em;
+        line-height: 1.45em;
+        color: #111;
+        margin-left: -10px;
+        margin-right: -10px;
+        font-weight: normal;
+    }
+    #dt_example {
+        font: 95%/1.45em "Lucida Grande", Verdana, Arial, Helvetica, sans-serif;
+        color: #111;
+    }
+    div.dataTables_wrapper, table {
+        font: 13px/1.45em "Lucida Grande", Verdana, Arial, Helvetica, sans-serif;
+    }
+    #dt_example h1 {
+        font-size: 16px !important;
+        color: #111;
+    }
+    #footer {
+        line-height: 1.45em;
+    }
+    div.examples {
+        padding-top: 1em !important;
+    }
+    div.examples ul {
+        padding-top: 1em !important;
+        padding-left: 1em !important;
+        color: #111;
+    }

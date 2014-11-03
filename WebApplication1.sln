@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GESDECO", "WebApplication1\GESDECO.csproj", "{374E0A80-9D9F-4DBB-8741-B7E458EA80FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CADGesdeco", "CADGesdeco\CADGesdeco.csproj", "{BB76242E-99F5-4E8A-B5BC-2D4281C50EC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{374E0A80-9D9F-4DBB-8741-B7E458EA80FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{374E0A80-9D9F-4DBB-8741-B7E458EA80FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{374E0A80-9D9F-4DBB-8741-B7E458EA80FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{374E0A80-9D9F-4DBB-8741-B7E458EA80FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB76242E-99F5-4E8A-B5BC-2D4281C50EC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB76242E-99F5-4E8A-B5BC-2D4281C50EC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB76242E-99F5-4E8A-B5BC-2D4281C50EC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB76242E-99F5-4E8A-B5BC-2D4281C50EC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal

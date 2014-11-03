@@ -1,0 +1,33 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Contenidos.master.cs" Inherits="WebApplication1.Contenidos" %>
+
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Gesdeco</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+
+
+
+
+
+    <link rel="stylesheet" href="http://chocotemplates.com/preview/preview.css" type="text/css" media="all" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+    <script src="http://chocotemplates.com/preview/preview.js" type="text/javascript"></script>
+</head>
+<body>
+    <form id="form1" runat="server">
+
+        <div id="body">
+            <asp:ContentPlaceHolder runat="server" ID="FeaturedContent" />
+            <section class="content-wrapper main-content clear-fix">
+                <asp:ContentPlaceHolder runat="server" ID="MainContent" />
+            </section>
+        </div>
+    </form>
+</body>
+</html>

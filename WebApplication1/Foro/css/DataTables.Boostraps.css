@@ -1,0 +1,181 @@
+﻿body {
+}
+
+
+
+div.dataTables_length label {
+	float: left;
+	text-align: left;
+}
+
+div.dataTables_length seleccione {
+	Ancho: 75px;
+}
+
+div.dataTables_filter label {
+	float: right;
+}
+
+div.dataTables_info {
+	padding-top: 8px;
+}
+
+div.dataTables_paginate {
+	float: right;
+	margin: 0;
+}
+
+table.table {
+	claro: ambos;
+	margin-bottom: 6px importante;
+	max-width: ninguna importancia;
+}
+
+table.table thead. clasificación,
+table.table thead. sorting_asc,
+table.table thead. sorting_desc,
+table.table thead. sorting_asc_disabled,
+table.table thead. sorting_desc_disabled {
+	cursor: pointer;
+	* Cursor: hand;
+}
+
+. table.table thead clasificar {background: url ('images / sort_both.png') no-repeat derecho y central;}
+. table.table thead sorting_asc {background: url ('images / sort_asc.png') Centro no-repeat derecha;}
+. table.table thead sorting_desc {background: url ('images / sort_desc.png') Centro no-repeat derecha;}
+
+. table.table thead sorting_asc_disabled {background: url ('images / sort_asc_disabled.png') Centro no-repeat derecha;}
+. table.table thead sorting_desc_disabled {background: url ('images / sort_desc_disabled.png') Centro no-repeat derecha;}
+
+ª table.dataTable: activa {
+	esbozar: ninguno;
+}
+
+/ * Desplazamiento * /
+div.dataTables_scrollHead tabla {
+	margin-bottom: 0 importantes;!
+	izquierda-border-bottom-radio: 0;
+	border-bottom-derecha-radio: 0;
+}
+
+mesa div.dataTables_scrollHead thead tr: last-child th: first-child,
+mesa div.dataTables_scrollHead thead tr: last-child td: first-child {
+	izquierda-border-bottom-radio: 0 importantes;!
+	border-bottom-derecha-radio: 0 importante;
+}
+
+div.dataTables_scrollBody tabla {
+	border-top: ninguno;
+	margin-bottom: 0 importantes;!
+}
+
+div.dataTables_scrollBody tbody tr: th first-child,
+div.dataTables_scrollBody tbody tr: first-child td {
+	border-top: ninguno;
+}
+
+mesa div.dataTables_scrollFoot {
+	border-top: ninguno;
+}
+
+
+
+
+/ *
+ * TableTools estilos
+ * /
+. Mesa tbody tr.active td,
+. Mesa tbody tr.active th {
+	background-color: # 08C;
+	color: blanco;
+}
+
+. Mesa tbody tr.active: hover td,
+. Mesa tbody tr.active: hover {th
+	background-color: # 0075b0 importante;
+}
+
+. Table-rayado tbody tr.active: nth-child (impar) td,
+. Mesa de rayas tbody tr.active: nth-child (impar) th {
+	background-color: # 017ebc;
+}
+
+table.DTTT_selectable tbody tr {
+	cursor: pointer;
+	* Cursor: hand;
+}
+
+. div.DTTT btn {
+	Color: # 333 importante;
+	font-size: 12px;
+}
+
+. div.DTTT btn: hover {
+	text-decoration: ninguna importancia;
+}
+
+
+ul.DTTT_dropdown.dropdown-menú a {
+	Color: # 333 importante; / * necesario sólo cuando se incluye demo_page.css * /
+}
+
+ul.DTTT_dropdown.dropdown-menu li: hover a {
+	background-color: # 0088cc;
+	Color: Blanco importante;
+}
+
+/ * Pantalla de información TableTools * /
+div.DTTT_print_info.modal {
+	altura: 150px;
+	margin-top: 75px-;
+	text-align: center;
+}
+
+div.DTTT_print_info h6 {
+	font-weight: normal;
+	font-size: 28px;
+	line-height: 28px;
+	margen: 1 em;
+}
+
+div.DTTT_print_info p {
+	font-size: 14px;
+	line-height: 20px;
+}
+
+
+
+/ *
+ * FixedColumns estilos
+ * /
+div.DTFC_LeftHeadWrapper mesa,
+div.DTFC_LeftFootWrapper mesa,
+table.DTFC_Cloned tr.even {
+	background-color: blanco;
+}
+
+div.DTFC_LeftHeadWrapper tabla {
+	margin-bottom: 0 importantes;!
+	border-top-derecha-radio: 0 importante;
+	izquierda-border-bottom-radio: 0 importantes;!
+	border-bottom-derecha-radio: 0 importante;
+}
+
+div.DTFC_LeftHeadWrapper mesa thead tr: last-child th: first-child,
+div.DTFC_LeftHeadWrapper mesa thead tr: last-child td: first-child {
+	izquierda-border-bottom-radio: 0 importantes;!
+	border-bottom-derecha-radio: 0 importante;
+}
+
+div.DTFC_LeftBodyWrapper tabla {
+	border-top: ninguno;
+	margin-bottom: 0 importantes;!
+}
+
+div.DTFC_LeftBodyWrapper tbody tr: th first-child,
+div.DTFC_LeftBodyWrapper tbody tr: first-child td {
+	border-top: ninguno;
+}
+
+div.DTFC_LeftFootWrapper tabla {
+	border-top: ninguno;

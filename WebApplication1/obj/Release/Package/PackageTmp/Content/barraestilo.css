@@ -1,0 +1,36 @@
+﻿body {
+}
+
+
+.barra {
+    height: 32px;
+    width:965px;
+    position: relative;
+    background-color: #f3f3f3;
+    border-radius: 5px;
+    padding: 0px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+.numero {
+    height: 32px;
+    padding-top: 5px;
+    width: 32px;
+    position: relative;
+    float: left;
+    background-color: #ffd800;
+    text-align: center;
+    border-radius: 5px 0 0 5px;
+}
+
+.texto {
+    height: 32px;
+    padding-top: 5px;
+    width: 653px;
+    margin-left: 3px;
+    position: relative;
+    left: 11px;
+    top: 0px;
+}
+

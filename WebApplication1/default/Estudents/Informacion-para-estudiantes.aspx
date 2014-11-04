@@ -88,19 +88,19 @@
                 <div class="separador">
                     <div id="menu">
                         <ul>
-                            <li class="has-sub"><a title="Inducción" href="Files/induccion_reglamento_practicas.pdf">Inducción Prácticas</a>
+                            <li class="has-sub"><a title="Inducción" href="Files/Formato Presentación Socializaciónver1.pdf"target="_blank">Inducción Prácticas</a>
 
-                            <li class="has-sub"><a title="Reglamento" href="Files/induccion_reglamento_practicas.pdf" rel="Reglamento">Reglamente general</a>
-                            <li class="has-sub"><a title="manual" href="Files/manual_practicas_sistemas.pdf" rel="Reglamento">Manual de prácticas</a>
+                            <li class="has-sub"><a title="Reglamento" href="Files/induccion_reglamento_practicas.pdf" rel="Reglamento"target="_blank">Reglamente general</a>
+                            <li class="has-sub"><a title="manual" href="Files/manual_practicas_sistemas.pdf" rel="Reglamento"target="_blank">Manual de prácticas</a>
                         
                             <li class="has-sub"><a title="HV" href="#" class="clsVentanaIFrame " >Formato hoja de vida</a>
                             <ul>
-                                <li class="has-sub"><a title="ver formato" href="Files/formato_hoja_vida_tecnologia_sistemas.pdf">Ver formato</a>
-                                 <li><a title="Descargar formato" href="Files/formato_hoja_vida_tecnologia_sistemas.docx">Descargar</a></li>
+                                <li class="has-sub"><a title="ver formato" href="Files/formato_hoja_vida_tecnologia_sistemas.pdftarget="_blank"">Ver formato</a>
+                                 <li><a title="Descargar formato" href="Files/formato_hoja_vida_tecnologia_sistemas.docx"target="_blank">Descargar</a></li>
                             </ul>
                         </li>
-                            <li class="has-sub"><a title="" href="ProcesoPractica.aspx">Proceso de practica</a>
-                            <li class="has-sub"><a title="" href="../../mantenimiento-gesdeco/Estudiante.aspx">Registro de prácticas</a>
+                            <li class="has-sub"><a title="" href="ProcesoPractica.aspx"target="_blank">Proceso de practica</a>
+                            <li class="has-sub"><a title="" href="../../mantenimiento-gesdeco/Estudiante.aspx"target="_blank">Registro de prácticas</a>
                             </li>
                         </ul>
                     </div>

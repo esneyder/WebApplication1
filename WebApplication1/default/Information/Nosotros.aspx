@@ -77,8 +77,8 @@
                         <li><a href="../Estudents/Informacion-para-estudiantes.aspx">Estudiantes</a></li>
                         <li><a href="../Centro-Practic/Centros-Practic.aspx">Centros de practica</a></li>
                         <li><a href="../Asesores-Practicas/Information-asesors.aspx">Asesores</a></li>
-                        <li><a href="../../Foro/Foro.aspx">Foro</a></li>
-                        <li><a href="../../Administracion-gesdeco/Admin.aspx">Adminstrar</a></li>
+                        <li><a href="../../PlataformaVirtual.aspx">Capacitación</a></li>
+                        <li><a href="../../Administracion-gesdeco/Admin.aspx">Gestión</a></li>
                         <li><a href="../Contact.aspx">contacto</a></li>
                     </ul>
                     <div class="cl">&nbsp;</div>

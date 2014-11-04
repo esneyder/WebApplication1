@@ -64,8 +64,8 @@
                         <li><a href="../Estudents/Informacion-para-estudiantes.aspx">Estudiantes</a></li>
                         <li><a href="../Asesores-Practicas/Information-asesors.aspx">Asesores</a></li>
                         <li class="active"><a href="Centros-Practic.aspx">Centros de practica</a></li>
-                        <li><a href="../../PlataformaVirtual.aspx">Plataforma Virtual</a></li>
-                        <li><a href="../../Administracion-gesdeco/Admin.aspx">Adminstrar</a></li>
+                        <li><a href="../../PlataformaVirtual.aspx">Capacitación</a></li>
+                        <li><a href="../../Administracion-gesdeco/Admin.aspx">Gestión</a></li>
                         <li><a href="../Contact.aspx">contacto</a></li>
                     </ul>
                     <div class="cl">&nbsp;</div>
@@ -92,11 +92,10 @@
                         <img src="../../Images/centropractica.jpg" width="700" height="300"/>
                         <br />
                        
-                        <h3>Requerimiento de las organizaciones para su vinculación</h3>
+                        <h3>Requerimientos del Tecnológico de Antioquia para la vinculación de los centros de practica<br /> ( empresas) que requieren practicantes. </h3>
                         <hr />
                        <a href="../../mantenimiento-gesdeco/Vacante.aspx">Ingresar al formulario de solicitud de estudiantes en práctica</a>
-                        <br />
-                        <h3>Requerimiento de las organizaciones para su vinculación con la facultad</h3>
+             
                         <br />
                         Ser entidades legítimamente constituidas, sin importar tamaño, sector económico, razón social o antigüedad, ciudad o país.<br />
                         El Período de Práctica tiene una duración de seis meses contados de enero a junio y de julio a diciembre, buscando que sean compatibles con los semestres académicos.<br />

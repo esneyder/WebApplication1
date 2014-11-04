@@ -2,30 +2,40 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="FeaturedContent" runat="server">
-    <asp:Button ID="Button1" runat="server" ForeColor="#009933" PostBackUrl="~/Foro/Foro.aspx" Text="Foro" Width="174px" />
+    
 </asp:Content>
 <asp:Content ID="Content3" ContentPlaceHolderID="MainContent" runat="server">
+
+    <div id="wrapper">
+        <div class="container">
+            <div class="separador">
+                <div id="menu">
+                    <ul>
+                        <li class="has-sub"><a title="" href="http://e-learning.tdea.edu.co/">Plataforma virtual</a>
+                             <li class="has-sub"><a title="" href="http://www.tdea.edu.co/index.php?option=com_content&view=article&id=465&Itemid=201#">Base de datos</a>
+                                   <li class="has-sub"><a title="" href="http://www.tdea.edu.co/index.php?option=com_content&view=article&id=465&Itemid=201#libros-electrónicos">Libros electrónicos</a>   
+                                  <li class="has-sub"><a title="" href="Foro/Foro.aspx">Foro</a>                      
+                        
+                            
+                    </ul>
+                </div>
+            </div>
+
+           
+        </div>
+    </div>
+     <img src="Images/biblioteca.png" class="biblioteca"/>
+
+
+
     <p>
-        <span lang="ES">Espacio que hace parte del Proyecto de Implementación 
-            de E-Learning y Virtualidad, impulsado por&nbsp;la Vicerrectoría Académica 
-            y la&nbsp;Facultad de Ingeniería del Tecnológico de Antioquía Institución
-             Universitaria. Esta plataforma apoya los procesos académicos y administrativos
-             de la institución, y brinda una nueva modalidad educativa para impulsar el 
-            desarrollo académico de nuestros estudiantes, docentes y funcionarios. </span></p>
+        <h3>Misión</h3>
+        <span lang="ES">La Biblioteca del Tecnológico de Antioquia propicia las fuentes bibliográficas, posibilita la adaptación 
+            de nuevas tecnologías informáticas, apoya la labor académica, docente e investigativa y presta 
+            los servicios que le permitan a la comunidad educativa ser agentes propios de su perfeccionamiento.</span></p>
 
-         <p>
-        Para nosotros es importante conocer su opinión, ella nos permitirá mejorar 
-        el servicio ofrecido a nuestros usuarios. Para quejas, reclamos o
-         sugerencias por favor comunicarse con el administrador del sitio a
-         la dirección de correo electrónico goarias2@tdea.edu.co.
-        <br />
-            
-       
+         <p> 
 
-
-    </p>
-    <strong>Libros electrónicos</strong><br />
-    <img src="Images/plataformavirtual.png" width="200"/>
-     <h3>http://e-learning.tdea.edu.co</h3>
+    </p> 
 
 </asp:Content>

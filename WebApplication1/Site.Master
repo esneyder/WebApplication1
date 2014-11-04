@@ -92,8 +92,8 @@
                             <li><a href="../default/Estudents/Informacion-para-estudiantes.aspx">Estudiantes</a></li>
                             <li><a href="../default/Asesores-Practicas/Information-asesors.aspx">Asesores</a></li>
                             <li><a href="../default/Centro-Practic/Centros-Practic.aspx">Centros de practica</a></li>
-                             <li><a href="#">Plataforma Virtual</a></li>
-                            <li class="active"><a href="Administracion-gesdeco/Admin.aspx">Administrar</a></li>
+                             <li><a href="#">Capacitación</a></li>
+                            <li class="active"><a href="Administracion-gesdeco/Admin.aspx">Gestión</a></li>
                             <li><a href="../Contact.aspx">contacto</a></li>
                         </ul>
                         <div class="cl">&nbsp;</div>
